@@ -1,0 +1,40 @@
+body {
+    background-color: #2e2e2e; /* Gris oscuro */
+    color: white; /* Texto blanco */
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #000; /* Negro */
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #ccc; /* Gris claro */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.anuncio {
+    background-color: #444; /* Gris medio */
+    padding: 10px;
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000; /* Negro */
+}
