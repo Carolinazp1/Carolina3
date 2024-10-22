@@ -1,0 +1,27 @@
+body{
+    background: beige;
+}
+
+img{
+    width: 100%;
+}
+
+@media (min-width: 576px) {
+    body{
+        background: green;
+    }
+}
+
+@media (min-width: 768px){
+    body{
+        background: lightgrey;
+    }
+    img{
+        width: 49%;
+    }
+}
+@media (min-width:992px){
+    body{
+        background: li;
+    }
+}
